@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../JavaScript (1)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "THC-University"
+	}
+}
